@@ -1,6 +1,6 @@
 module github.com/microsoft/typescript-go/shim
 
-go 1.26.10
+go 1.26
 
 require github.com/microsoft/typescript-go v0.0.0
 
