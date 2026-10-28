@@ -108,3 +108,8 @@ The psgen skill page in parable-platform owns the policy for this module, the
 compiler pin and the upgrade procedure. See its
 [TypeScript compiler](https://github.com/parable-work/parable-platform/blob/main/docs/project/agents/skills/schema/psgen.mdx#typescript-compiler)
 section. parable-platform is a private repository.
+
+## License
+
+Apache License 2.0, the same license as the TypeScript compiler. See
+[LICENSE](LICENSE).
